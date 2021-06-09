@@ -1,0 +1,6 @@
+# Servu päälle python -m http.server
+
+
+https://app.pluralsight.com/library/courses/web-scraping-python-data-playbook/table-of-contents
+
+kappale 3 osa 5
