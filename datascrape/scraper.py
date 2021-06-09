@@ -2,9 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from pprint import pprint
-#https://en-gb.wordpress.org/plugins/browse/popular/
-#http://localhost:8000/wordpress.html
-page= "https://en-gb.wordpress.org/plugins/browse/popular/"
+# https://en-gb.wordpress.org/plugins/browse/popular/
+# http://localhost:8000/wordpress.html
+page = "https://en-gb.wordpress.org/plugins/browse/popular/"
 
 # def lisari(soup):
 #     lisariTiedot = soup.find_all('main', class_='site-main', role='main')
